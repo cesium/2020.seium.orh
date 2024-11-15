@@ -3,7 +3,7 @@ import { useRef } from "react";
 import { useAuth } from "@context/Auth";
 
 import Button from "@components/Button";
-import Text from "@layout/moonstone/authentication/Text";
+import Text from "@layout/lazuli/authentication/Text";
 
 import Form from "@components/Form";
 import Input from "@components/Input";

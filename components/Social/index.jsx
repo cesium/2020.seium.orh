@@ -30,7 +30,7 @@ export default function Social() {
       </a>
       <a
         className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://github.com/cesium/seium.org"
+        href="https://github.com/cesium/lazuli"
         target="_blank"
         rel="noreferrer"
       >

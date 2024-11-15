@@ -3,7 +3,7 @@ import { motion as Motion } from "framer-motion";
 import Card from "@components/Card";
 import Return from "@components/Return";
 
-import Title from "@layout/moonstone/authentication/Title";
+import Title from "@layout/lazuli/authentication/Title";
 import { ResetPasswordForm } from "./components";
 
 export async function getServerSideProps({ query }) {
