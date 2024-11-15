@@ -14,8 +14,8 @@ import Input from "@components/Input";
 import Select from "@components/Select";
 import PasswordInput from "@components/PasswordInput";
 
-import Title from "@layout/moonstone/authentication/Title";
-import Text from "@layout/moonstone/authentication/Text";
+import Title from "@layout/lazuli/authentication/Title";
+import Text from "@layout/lazuli/authentication/Text";
 
 function Register() {
   const { sign_up, errors, isLoading } = useAuth();

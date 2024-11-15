@@ -10,8 +10,8 @@ import { Router, useRouter } from "next/router";
 
 import Return from "@components/Return";
 
-import Title from "@layout/moonstone/authentication/Title";
-import Text from "@layout/moonstone/authentication/Text";
+import Title from "@layout/lazuli/authentication/Title";
+import Text from "@layout/lazuli/authentication/Text";
 import { LoginForm } from "./components";
 
 function Login() {
@@ -33,7 +33,7 @@ function Login() {
         className="absolute -left-[380px] bottom-0 hidden w-[750px] xl:block"
         src="/images/void.svg"
       />
-      <div className="mt-10 flex flex-col items-center justify-center sm:mt-40 z-8">
+      <div className="z-8 mt-10 flex flex-col items-center justify-center sm:mt-40">
         <Title text="Log in" />
         <LoginForm />
         <Text

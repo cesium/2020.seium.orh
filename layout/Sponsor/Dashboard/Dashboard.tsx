@@ -4,9 +4,9 @@ import { withAuth } from "@context/Auth";
 import Heading from "@components/Heading";
 import Layout from "@components/Layout";
 
-import SponsorPrizeButton from "@layout/moonstone/sponsor/dashboard/SponsorPrizeButton";
-import SponsorBadgeButton from "@layout/moonstone/sponsor/dashboard/SponsorBadgeButton";
-import ParticipantSelector from "@layout/moonstone/sponsor/dashboard/ParticipantSelector";
+import SponsorPrizeButton from "@layout/lazuli/sponsor/dashboard/SponsorPrizeButton";
+import SponsorBadgeButton from "@layout/lazuli/sponsor/dashboard/SponsorBadgeButton";
+import ParticipantSelector from "@layout/lazuli/sponsor/dashboard/ParticipantSelector";
 
 const SponsorDashboard: React.FC = () => {
   const participants: string[] = ["Nome 1", "Nome 2", "Nome 3", "Nome 4"];

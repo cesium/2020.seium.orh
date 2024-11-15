@@ -14,7 +14,7 @@ import ActiveLink from "./components/ActiveLink";
 import Banner from "./components/Banner";
 import spotlights from "pages/staff/spotlights";
 
-// FIXME: Normalize user type between moonstone and safira
+// FIXME: Normalize user type between lazuli and safira
 const basePahts = {
   [ROLES.ATTENDEE]: "attendee",
   [ROLES.SPONSOR]: "sponsor",

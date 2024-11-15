@@ -5,8 +5,8 @@ import { motion as Motion } from "framer-motion";
 import Card from "@components/Card";
 import Return from "@components/Return";
 import { SignUpForm } from "./components";
-import Title from "@layout/moonstone/authentication/Title";
-import Text from "@layout/moonstone/authentication/Text";
+import Title from "@layout/lazuli/authentication/Title";
+import Text from "@layout/lazuli/authentication/Text";
 
 import { getCourses } from "@lib/api";
 

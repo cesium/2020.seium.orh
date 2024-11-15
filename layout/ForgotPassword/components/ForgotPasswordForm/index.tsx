@@ -5,7 +5,7 @@ import ImageButton from "@components/ImageButton";
 
 import Form from "@components/Form";
 import Input from "@components/Input";
-import Text from "@layout/moonstone/authentication/Text";
+import Text from "@layout/lazuli/authentication/Text";
 
 export default function ForgotPasswordForm() {
   const [success, updateSuccess] = useState(null);
