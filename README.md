@@ -10,7 +10,6 @@
 
 # ![SEI Banner](.github/brand/sei-banner24.png)
 
-[![Netlify Status][netlify-status]][netlify-deploys]
 [![CI Style][ci-style-status]][ci-style-workflow]
 [![Design 2022][figma-badge-2022]][figma-design-2022]
 [![Design 2021][figma-badge-2021]][figma-design-2021]
